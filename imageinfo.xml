@@ -1,0 +1,40 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 18:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="357" filedate="2009-07-22 16:29:19" width="16px" height="11px">
+</image>
+<image path="images/cover.jpg" filesize="96578" filedate="2009-07-26 10:11:53" width="494px" height="720px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 16:17:10" width="12px" height="12px">
+</image>
+<image path="images/logo.gif" filesize="9554" filedate="2009-07-26 10:13:10" width="234px" height="235px">
+</image>
+<image path="images/map.jpg" filesize="84873" filedate="2009-07-26 10:13:57" width="616px" height="720px">
+</image>
+<image path="images/maph.jpg" filesize="757806" filedate="2009-07-26 10:14:52" width="2273px" height="2656px">
+</image>
+<image path="images/ms1.gif" filesize="33644" filedate="2009-07-26 10:15:33" width="720px" height="491px">
+</image>
+<image path="images/ms2.gif" filesize="27665" filedate="2009-07-26 10:16:03" width="720px" height="380px">
+</image>
+<image path="images/p01.gif" filesize="62841" filedate="2009-07-26 10:19:40" width="720px" height="490px">
+</image>
+<image path="images/p02.gif" filesize="71253" filedate="2009-07-26 10:20:29" width="720px" height="492px">
+</image>
+<image path="images/p03.gif" filesize="60690" filedate="2009-07-26 10:19:17" width="720px" height="499px">
+</image>
+<image path="images/p04.gif" filesize="64785" filedate="2009-07-26 10:18:53" width="720px" height="487px">
+</image>
+<image path="images/p05.gif" filesize="66764" filedate="2009-07-26 10:18:29" width="720px" height="495px">
+</image>
+<image path="images/p06.gif" filesize="70287" filedate="2009-07-26 10:18:07" width="720px" height="501px">
+</image>
+<image path="images/p07.gif" filesize="58651" filedate="2009-07-26 10:17:45" width="720px" height="490px">
+</image>
+<image path="images/p08.gif" filesize="61180" filedate="2009-07-26 10:17:23" width="720px" height="486px">
+</image>
+<image path="images/p09.gif" filesize="77444" filedate="2009-07-26 10:17:00" width="720px" height="626px">
+</image>
+<image path="images/publogo.gif" filesize="2792" filedate="2009-07-26 10:20:04" width="124px" height="122px">
+</image>
+</images>
